@@ -27,7 +27,7 @@ const anup = {
 
 ## 🧠 What I Do
 
-- 🔬 Build **IoT & smart systems** that connect the physical and digital world
+- 🔬 Build **smart systems** that connect the physical and digital world
 - 🛡️ Develop **security & fintech tools** — fraud detection, banking shields
 - 🌐 Create **full-stack web apps** with clean UIs and robust backends
 - 🤖 Experiment with **AI/ML pipelines** for real-world automation
@@ -127,7 +127,7 @@ const anup = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AKJenaX-181717?style=for-the-badge&logo=github)](https://github.com/AKJenaX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anup-kumar-jena-4419b2333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anup-kumar-jena-4419b2333)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:anupkumarjena231@gmail.com)
 
 </div>
