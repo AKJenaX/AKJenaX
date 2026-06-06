@@ -77,12 +77,13 @@ const anup = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AKJenaX&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKJenaX&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AKJenaX&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKJenaX&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKJenaX&theme=radical&hide_border=true" width="60%" />
+<!-- Streak stats via git.io streaks (replaces dead herokuapp) -->
+<img src="https://streak-stats.demolab.com/?user=AKJenaX&theme=radical&hide_border=true" width="60%" />
 
 </div>
 
@@ -92,7 +93,7 @@ const anup = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AKJenaX&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AKJenaX&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
