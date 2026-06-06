@@ -64,7 +64,7 @@ const anup = {
 
 | 🏷️ Project | 💡 What it does | 🛠️ Stack |
 |---|---|---|
-| [🗑️ **SWMS**](https://github.com/AKJenaX/SWMS) | Smart Waste Management System — IoT-based urban waste tracking & routing | HTML · JS · CSS |
+| [🗑️ **EcoFlow**](https://github.com/AKJenaX/EcoFlow) | Smart Waste Management System — IoT-based urban waste tracking & routing | HTML · JS · CSS |
 | [💧 **HydroSense**](https://github.com/AKJenaX/HydroSense) | Intelligent water sensing & real-time monitoring | JavaScript |
 | [🏦 **Bank_Shield**](https://github.com/AKJenaX/Bank_Shield) | Fraud detection & banking security engine | Python |
 | [🤖 **MALO**](https://github.com/AKJenaX/MALO) | ML-powered automation and optimization tool | Python |
