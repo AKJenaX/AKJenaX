@@ -16,7 +16,7 @@ const anup = {
   name      : "Anup Kumar Jena",
   alias     : "AKJenaX",
   location  : "India 🇮🇳",
-  focus     : ["Cybersecurity", "IoT", "AI/ML", "Full-Stack Dev"],
+  focus     : ["Backend", "IoT", "AI/ML", "Full-Stack Dev"],
   languages : ["Python", "JavaScript", "TypeScript", "Kotlin", "Java", "C"],
   currentlyBuilding : "Projects that solve real-world problems 🌍",
   funFact   : "I once built a Smart Waste Management System before my morning chai ☕"
