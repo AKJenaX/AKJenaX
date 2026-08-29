@@ -16,8 +16,8 @@ const anup = {
   name      : "Anup Kumar Jena",
   alias     : "AKJenaX",
   location  : "India 🇮🇳",
-  focus     : ["Smart Systems", "AI/ML", "Full-Stack Dev", "FinTech"],
-  languages : ["Python", "JavaScript", "TypeScript", "HTML/CSS"],
+  focus     : ["Cybersecurity", "IoT", "AI/ML", "Full-Stack Dev"],
+  languages : ["Python", "JavaScript", "TypeScript", "Kotlin", "Java", "C"],
   currentlyBuilding : "Projects that solve real-world problems 🌍",
   funFact   : "I once built a Smart Waste Management System before my morning chai ☕"
 };
@@ -44,15 +44,18 @@ const anup = {
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Tools & Platforms**
+**Frameworks & Tools**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
@@ -64,10 +67,10 @@ const anup = {
 
 | 🏷️ Project | 💡 What it does | 🛠️ Stack |
 |---|---|---|
-| [🗑️ **EcoFlow**](https://github.com/AKJenaX/EcoFlow) | Smart Waste Management System — IoT-based urban waste tracking & routing | HTML · JS · CSS |
-| [💧 **HydroSense**](https://github.com/AKJenaX/HydroSense) | Intelligent water sensing & real-time monitoring | JavaScript |
-| [🏦 **Bank_Shield**](https://github.com/AKJenaX/Bank_Shield) | Fraud detection & banking security engine | Python |
-| [🤖 **MALO**](https://github.com/AKJenaX/MALO) | ML-powered automation and optimization tool | Python |
+| [🛡️ **DcoY**](https://github.com/AKJenaX/DcoY) | Cyber deception & active defense platform — anomaly scoring, honeypot misdirection, attack-path graphing | Python · FastAPI · React · Docker |
+| [🧮 **TaskMesh**](https://github.com/AKJenaX/TaskMesh) | RL-based distributed task scheduler — learned scheduling policy beats static heuristics | Python · PyTorch · FastAPI |
+| [🗑️ **EcoFlow**](https://github.com/AKJenaX/EcoFlow) | Smart waste management platform — live route optimization & IoT sensor dashboard | React · Node.js · MySQL |
+| [💧 **HydroSense**](https://github.com/AKJenaX/HydroSense) | IoT water monitoring platform — ESP32 telemetry, usage limits, Razorpay billing | Node.js · React · ESP32 |
 
 </div>
 
@@ -103,7 +106,7 @@ const anup = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-AKJenaX-181717?style=for-the-badge&logo=github)](https://github.com/AKJenaX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anup-kumar-jena-4419b2333)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:anupkumarjena231@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:jenaanupkumar824@gmail.com)
 
 </div>
 
